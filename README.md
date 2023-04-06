@@ -13,7 +13,7 @@ Replace the `tag_name` with the name of the tag you want to create here and send
 
 ```
 -t create tag_name {js:
-{download:https://raw.githubusercontent.com/Tolga1452/assyst-tags/main/experiments-api.js}
+{download:https://raw.githubusercontent.com/xXGustavoXx022/assyst-tags/main/experiments-api.js}
 experimentsAPI("tag_name", "{args}")
 }
 ```
